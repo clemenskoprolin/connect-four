@@ -6,6 +6,8 @@ configurable win length (3 → 10). Designed to look great on desktop and
 mobile, with falling-piece animations, a winning-row highlight, and a
 game state that persists across page refreshes.
 
+ ![Demo image](docs/demo.png)
+
 ## Highlights
 
 - **Configurable board** — rows, columns, and win length, all live-editable.
