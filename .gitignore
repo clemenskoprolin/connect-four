@@ -1,0 +1,26 @@
+# Gradle and Kotlin
+.gradle/
+.kotlin/
+build/
+out/
+
+# IntelliJ / JetBrains
+.idea/
+*.iml
+
+# Kotlin/JS and frontend package artifacts
+node_modules/
+dist/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Keep the Kotlin/JS dependency lockfile, ignore the rest of the generated store
+kotlin-js-store/*
+!kotlin-js-store/yarn.lock
+
+# OS files
+.DS_Store
+Thumbs.db

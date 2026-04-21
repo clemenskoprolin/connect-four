@@ -1,0 +1,3 @@
+# Auto-switches JDK when you `cd` here, if SDKMAN's auto_env is enabled.
+# Gradle's bundled Kotlin compiler can't parse JDK 25 yet, so pin to LTS.
+java=21.0.5-tem
